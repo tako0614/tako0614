@@ -5,5 +5,5 @@
     <a href="https://github.com/tako0614">
       <img height="20" src="https://img.shields.io/github/followers/tako0614?label=follow&logo=github&style=flat" />
     </a>
-    <img height="20" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tako0614&theme=default" />
 </p>
+<img　src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tako0614&theme=default" />
