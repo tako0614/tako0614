@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは！私の名前は たこ！</h1>
+<h1 align="center">たこです。。</h1>
 <h3 align="center">Technology for All Knowledge & Octopus</h3>
 
 <h3 align="left">Connect with me:</h3>
