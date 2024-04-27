@@ -6,5 +6,4 @@
       <img height="20" src="https://img.shields.io/github/followers/tako0614?label=follow&logo=github&style=flat" />
     </a>
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tako0614&theme=default)
-
+![Test Image 6](https://github.com/hibara/TestRepository/blob/master/image/test.png)
