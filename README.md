@@ -13,12 +13,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tako0614&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tako0614&theme=default&utcOffset=9" />
 </p>
-
- <h3>tako'S Recent activity</h3>
-<img src="https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_badge.svg" />
-<img src="https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_timeline.svg" />
-<img src="https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_issues.svg" />
-<img src="https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_prs.svg" />
-<img src="https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_words.svg" />
-<img src="https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_users.svg" />
-<img src ="https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_map.svg" />
