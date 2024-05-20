@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tako0614" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tako0614&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tako0614&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tako0614&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tako0614&theme=default&utcOffset=9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tako0614" />
 </p>
