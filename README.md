@@ -7,7 +7,6 @@
 <a href="https://www.youtube.com/c/takoserver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="takoserver" height="30" width="40" /></a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tako0614" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tako0614&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tako0614&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tako0614&theme=default&utcOffset=9" />
