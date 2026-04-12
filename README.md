@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=tako0614" />
 </div>
 
-- web開発者 哲学者
 - web自主基盤ソフトウェア「takos」開発中
 - アプリ甲子園 '25 準優勝（AI開発）
 - [かっちょいいサイト](https://info.takos.jp)
