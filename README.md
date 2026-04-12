@@ -11,8 +11,8 @@
 - web開発者 哲学者
 - web自主基盤ソフトウェア「takos」開発中
 - アプリ甲子園 '25 準優勝（AI開発）
-[かっちょいいサイト](https://info.takos.jp)
-[X](https://x.com/takos_jp)
+- [かっちょいいサイト](https://info.takos.jp)
+- [X](https://x.com/takos_jp)
 <br>
 
 ## 活動
