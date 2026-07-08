@@ -23,7 +23,7 @@ Founder / Developer / Infrastructure Builder
 今は、個人がソフトウェアやオンライン上の場を **自分で所有・運用・移動できる基盤** を作っています。
 
 - 🏢 **分散通信基盤株式会社** 代表取締役社長
-- 🐙 web自主基盤ソフトウェア **takos** 開発中
+- 🐙 web自主基盤ソフトウェア **takosumi** 開発中
 - 🏆 **アプリ甲子園 '25 準優勝** / AI開発
 - 🌐 Interested in distributed systems, privacy, AI agents, and social infrastructure
 
